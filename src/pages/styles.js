@@ -32,4 +32,16 @@ export const styles = StyleSheet.create({
     fontSize: 17,
     fontWeight: 'bold',
   },
+  buttonSkill: {
+    backgroundColor: '#1F1E25',
+    padding: 15,
+    borderRadius: 50,
+    alignItems: 'center',
+    marginVertical: 10,
+  },
+  textSkill: {
+    color: '#FFF',
+    fontSize: 22,
+    fontWeight: 'bold',
+  },
 });
